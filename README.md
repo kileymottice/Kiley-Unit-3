@@ -1,6 +1,5 @@
 # Kiley-Unit-3
 
-This is a repository contianing instructional materials and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of North Carolina, Chapel Hill. 
 The repository contains 1 python notebook, and the original set of data, the notebook covers basic topics in coding with Python3, and beginner modules on using the Pandas package for data analysis. 
 These materials have been adapted from the excellent lessons created by the staff at the Research Hub of UNC's Davis Library 
 This data came from the County Health 2014, 2015 csv that has information on health from every state, county, and region. 
