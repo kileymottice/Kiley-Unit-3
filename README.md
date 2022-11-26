@@ -3,7 +3,7 @@ The repository contains 1 python notebook, and the original set of data, the not
 
 WHAT IS IN THE DATA?
 
-This data came from the [County Health 2014, 2015 csv] (https://uncch.instructure.com/courses/4844/files/1951168?wrap=1) that has information on health from every state, county, and region. The condensed data provided in the notebook focuses on adult obesity, physical inactivity, and access to exercise opportunities in the states of KY, AZ, and CT. All show different information and data from three different areas of the country, the South, Northeast, and West. 
+This data came from the [County Health 2014, 2015 csv](https://uncch.instructure.com/courses/4844/files/1951168?wrap=1) that has information on health from every state, county, and region. The condensed data provided in the notebook focuses on adult obesity, physical inactivity, and access to exercise opportunities in the states of KY, AZ, and CT. All show different information and data from three different areas of the country, the South, Northeast, and West. 
 
 WHY THIS DATA?
 
